@@ -21,7 +21,7 @@ The program employs a neural network and machine learning to train the dinosaur 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/omer-games/Dino-Game-Python-AI.git
+    git clone https://github.com/omer-games/Dino-Python-AI.git
     ```
 
 2. **Install Dependencies:**
