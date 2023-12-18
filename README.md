@@ -4,8 +4,8 @@ Dino Game Python AI is a Python program that utilizes a neural network and machi
 
 ## Credit for Original Game
 
-This program is built upon a Python T-Rex Run game created by [Original Creator's Name].
-[Link to the Original Game Repository]
+This program is built upon a Python T-Rex Run game created by dhhruv.
+https://github.com/dhhruv/Chrome-Dino-Runner
 
 ## How it Works
 
