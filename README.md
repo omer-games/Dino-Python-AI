@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/omer-games/Dino-Python-AI/blob/main/assets/Dino/DinoStart.png" width="97" height="97">
+
+</p>
+<p align="center">
+	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+</p>
+
+
 # Dino Game Python AI
 
 Dino Game Python AI is a Python program that utilizes a neural network and machine learning to teach a dinosaur to play the classic T-Rex Run game autonomously.
